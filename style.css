@@ -171,18 +171,19 @@
     }
     
     .sixteen {
-        display: inline-block;
-        margin-right: 400px;
-        margin-left: 500px;
         border: 70px solid rgba(211, 211, 28, 0.493);
+        margin-right: 500px;
+        margin-left: 400px;
     }
     
     input.a {
-        background-color: rgba(128, 128, 128, 0.863);
+        background-color: rgba(128, 128, 128, 0.37);
+        width: 55%;
     }
     
-    input.b {
+    button {
         background-color: rgba(255, 0, 0, 0.733);
+        width: 30%;
     }
     
     .seventeen {
@@ -201,5 +202,5 @@
     }
     
     .seventeen {
-        color: gray;
+        color: rgba(128, 128, 128, 0.288);
     }
