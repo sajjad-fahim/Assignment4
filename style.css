@@ -1,0 +1,186 @@
+                body {
+                    margin: 0px;
+                    font-family: 'Oswald', sans-serif;
+                    font-family: 'Work Sans', sans-serif;
+                    width: 100%;
+                }
+                
+                .first-div {
+                    display: inline-block;
+                    background-image: url("./donate-today/images/donation13.jpg");
+                    color: white;
+                    padding: 230px 300px 230px 300px;
+                    text-align: center;
+                    background-size: cover;
+                    background-position: center;
+                }
+                
+                .donate-btn {
+                    text-decoration: none;
+                    background-color: rgba(213, 228, 214, 0.938);
+                    padding: 10px;
+                    border: 1px solid black;
+                    border-radius: 10px;
+                    font-size: large;
+                }
+                
+                .sec-container {
+                    display: flex;
+                    margin-left: 10%;
+                    margin-right: 10%;
+                }
+                
+                .third-div {
+                    text-align: center;
+                    padding: 80px 300px 0px 300px;
+                }
+                
+                .sec {
+                    margin: 1%;
+                    width: 50%;
+                    border-radius: 10px;
+                    padding: 5%;
+                    background-color: rgba(0, 255, 255, 0.384);
+                    margin-right: 3%;
+                }
+                
+                #some {
+                    background-color: rgba(165, 42, 42, 0.356);
+                    border: 0.5px solid red;
+                }
+                
+                .fourth {
+                    margin-top: 50px;
+                    margin-left: 250px;
+                    margin-right: 250px;
+                    text-align: center;
+                }
+                
+                .fourth p {
+                    font-size: 14;
+                    color: rgba(128, 128, 128, 0.774)
+                }
+                
+                .btn {
+                    text-decoration: none;
+                    background-color: rgba(255, 68, 0, 0.747);
+                    padding: 10px;
+                    border: 1px solid black;
+                    font-size: larger;
+                    border-radius: 10px;
+                }
+                
+                .fifth {
+                    display: flex;
+                    margin-left: 5%;
+                    padding: 5%;
+                    margin-right: 5%;
+                }
+                
+                .six {
+                    margin-top: 5%;
+                    text-align: center;
+                    padding: 40px 300px 0px 300px;
+                }
+                
+                .seven {
+                    margin: 3%;
+                    width: 100%;
+                    border-radius: 10px;
+                    padding: 5%;
+                }
+                
+                .seven img {
+                    width: 30%;
+                }
+                
+                .eight {
+                    background-color: rgba(255, 0, 212, 0.274);
+                }
+                
+                .nine {
+                    background-color: rgba(255, 255, 0, 0.466);
+                }
+                
+                .ten {
+                    background-color: rgba(0, 255, 255, 0.384);
+                }
+                
+                .eleven {
+                    display: flex;
+                    margin: 2% 10% 5% 10%;
+                }
+                
+                .twelve {
+                    width: 100%;
+                    padding: 5%;
+                }
+                
+                .eighteen {
+                    padding-top: 10%;
+                    text-align: center;
+                }
+                
+                .twelve img {
+                    width: 120%;
+                }
+                
+                .thirteen {
+                    display: flex;
+                    margin: 2% 10% 5% 10%;
+                }
+                
+                .fourteen {
+                    width: 100%;
+                    padding: 5%;
+                }
+                
+                .nineteen {
+                    padding-top: 5%;
+                    padding-left: 10%;
+                    text-align: center;
+                }
+                
+                .thirteen img {
+                    width: 120%;
+                }
+                
+                .fifteen {
+                    text-align: center;
+                    padding: 40px 400px 0px 400px;
+                }
+                
+                .sixteen {
+                    display: inline-block;
+                    margin-right: 400px;
+                    margin-left: 500px;
+                    border: 70px solid rgba(211, 211, 28, 0.493);
+                }
+                
+                input.a {
+                    background-color: rgba(128, 128, 128, 0.863);
+                    width: 55%;
+                }
+                
+                input.b {
+                    background-color: rgba(255, 0, 0, 0.733);
+                    width: 35%;
+                }
+                
+                .seventeen {
+                    background-color: black;
+                    background-size: cover;
+                }
+                
+                .seventeen h1,
+                p {
+                    text-align: center;
+                }
+                
+                .seventeen h1 {
+                    color: red;
+                }
+                
+                .seventeen {
+                    color: gray;
+                }
