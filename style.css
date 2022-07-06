@@ -71,9 +71,9 @@
         text-align: center;
     }
     
-    .fourth p {
-        font-size: 14;
-        color: rgba(128, 128, 128, 0.774)
+    #amount {
+        text-decoration: none;
+        text-align: none;
     }
     
     .btn {
@@ -180,12 +180,10 @@
     
     input.a {
         background-color: rgba(128, 128, 128, 0.863);
-        width: 55%;
     }
     
     input.b {
         background-color: rgba(255, 0, 0, 0.733);
-        width: 35%;
     }
     
     .seventeen {
