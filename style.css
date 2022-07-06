@@ -178,12 +178,12 @@
     
     input.a {
         background-color: rgba(128, 128, 128, 0.37);
-        width: 55%;
+        width: 57%;
     }
     
     button {
         background-color: rgba(255, 0, 0, 0.733);
-        width: 30%;
+        width: 40%;
     }
     
     .seventeen {
@@ -201,6 +201,6 @@
         color: red;
     }
     
-    .seventeen {
-        color: rgba(128, 128, 128, 0.288);
+    .seventeen p {
+        color: rgba(128, 128, 128, 0.801);
     }
